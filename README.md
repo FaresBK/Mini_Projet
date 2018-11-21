@@ -19,14 +19,12 @@ Alors notre architecture globales et sous la forme d’un ensemble des services 
 </p>
 
 <p>
- ## L’architecture de la couche de donnée 
+ ### L’architecture de la couche de donnée 
  ### Élaboration du diagramme d’utilisateur 
- 2.1.1.  Élaboration du diagramme d’utilisateur 
- 
-  ![diagramme d’utilisateur](1.png)
-  
- 2.1.2. Elaboration du diagramme de classes 
- ![ diagramme de classes](2.png)
+     2.1.1.  Élaboration du diagramme d’utilisateur 
+       ![diagramme d’utilisateur](1.png)
+     2.1.2. Elaboration du diagramme de classes 
+       ![ diagramme de classes](2.png)
  
  
 3. Déroulement du système :
