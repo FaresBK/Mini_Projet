@@ -48,12 +48,15 @@ W : Afficher la page d’option choisi
 X : Sauvegarder les nouveaux changements
 
 4. Présentation de l’environnement de développement :
+4.1. Plateforme logicielle
++GitHub
 
++Xampp : XAMPP  Lite  version 1.7.3
+
++MySQL /phpMyAdmin 
 ### L’architecture de la couche de donnée
 
-4.1. Plateforme logicielle
-       
-4.1.2:
+
 
 
 
