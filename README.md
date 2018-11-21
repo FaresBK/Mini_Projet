@@ -40,8 +40,8 @@ W : Afficher la page d’option choisi
 X : Sauvegarder les nouveaux changements
 
 
- ### L’architecture globale de l’application  
- dans notre cas une bibliothèque offre a ces clients la possibilité de convertir leurs documente (.txt ,.ppt…)par divers moyens :
+### L’architecture globale de l’application  
+dans notre cas une bibliothèque offre a ces clients la possibilité de convertir leurs documente (.txt ,.ppt…)par divers moyens :
 +Mobile (wap-wml)
 +Internet (http-html) 
 alors architecture globales et sous la forme d’un ensemble des services web sur la base d’architecture REST 
