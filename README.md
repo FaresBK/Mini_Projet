@@ -21,7 +21,8 @@
 +Mobile (wap-wml)
 +Internet (http-html) 
 alors architecture globales et sous la forme d’un ensemble des services web sur la base d’architecture REST 
-![spring](Spring.png)	 
+![spring](Spring.png)
+![data](data.png )
 3. Déroulement du système :
 
 Visiteur :
