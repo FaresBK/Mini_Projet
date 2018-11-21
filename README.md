@@ -19,7 +19,9 @@ Alors notre architecture globales et sous la forme d’un ensemble des services 
 	
 
 
-### L’architecture de la couche de donnée 
+### L’architecture de la couche de donnée
+    
+    ![ ](data.png)
 ### Élaboration du diagramme d’utilisateur 
 2.1.1.  Élaboration du diagramme d’utilisateur 
        ![diagramme d’utilisateur](1.png)
