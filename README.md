@@ -56,7 +56,7 @@ X : Sauvegarder les nouveaux changements
 +MySQL /phpMyAdmin 
 ### L’architecture de la couche de donnée
 
-
+![table](table.png)
 
 
 
