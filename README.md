@@ -29,17 +29,17 @@ Alors notre architecture globales et sous la forme d’un ensemble des services 
  
  
 3. Déroulement du système :
-	Visiteur :
-   A : S’authentifier
-   C : Effectuer une opération
-   E : Afficher la page de l’option choisi
-   F : Sauvegarder les nouvelles infos
+Visiteur :
+A : S’authentifier
+C : Effectuer une opération
+E : Afficher la page de l’option choisi
+F : Sauvegarder les nouvelles infos
 Client :
-   S : S’authentifier
-   T : choisir une option (consulter son Boite, ajouter des fichiers)
-   U : Effectuer une opération
-   W : Afficher la page d’option choisi
-   X : Sauvegarder les nouveaux changements 
+S : S’authentifier
+T : choisir une option (consulter son Boite, ajouter des fichiers)
+U : Effectuer une opération
+W : Afficher la page d’option choisi
+X : Sauvegarder les nouveaux changements 
 4. Présentation de l’environnement de développement :
   4.1. Plateforme logicielle
 
@@ -47,13 +47,13 @@ Client :
   
 
 
-<p>
+
 ### la manière de gestion des demandes de clients  : 
 Pour la manière de gestion des demandes de clients on va utiliser un contrôleur de nombre d’accès et  sur  le site suivant leur  identificateur </br>
  la technologie utilisable  c’est le langage java avec la plate forme javaEE(serveur tomcat  ou bien glasse fiche5) Et a base de donnée et réaliser sur oracle  a cause des avantages suivantes :  </br>
 + la gestion du cycle de vie (création, destruction) ; 
 +le contrôle implicite des transactions ;
- +la transparence des services distribués ; 
++la transparence des services distribués ; 
 + la sécurité.
   
 
