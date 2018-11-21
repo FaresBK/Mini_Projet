@@ -29,20 +29,34 @@ Alors notre architecture globales et sous la forme d’un ensemble des services 
  
  
 3. Déroulement du système :
-Visiteur :
-A : S’authentifier
-C : Effectuer une opération
-E : Afficher la page de l’option choisi
-F : Sauvegarder les nouvelles infos
-Client :
-S : S’authentifier
-T : choisir une option (consulter son Boite, ajouter des fichiers)
-U : Effectuer une opération
-W : Afficher la page d’option choisi
-X : Sauvegarder les nouveaux changements 
-4. Présentation de l’environnement de développement :
-  4.1. Plateforme logicielle
 
+Visiteur :
+
+A : S’authentifier
+
+C : Effectuer une opération
+
+E : Afficher la page de l’option choisi
+
+F : Sauvegarder les nouvelles infos
+
+Client :
+
+S : S’authentifier
+
+T : choisir une option (consulter son Boite, ajouter des fichiers)
+
+U : Effectuer une opération
+
+W : Afficher la page d’option choisi
+
+X : Sauvegarder les nouveaux changements
+
+4. Présentation de l’environnement de développement :
+
+4.1. Plateforme logicielle
+       
+4.1.2:javaEE 
  
   
 
