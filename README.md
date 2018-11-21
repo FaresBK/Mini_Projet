@@ -20,10 +20,8 @@
  dans notre cas une bibliothèque offre a ces clients la possibilité de convertir leurs documente (.txt ,.ppt…)par divers moyens :
 +Mobile (wap-wml)
 +Internet (http-html) 
-![spring](Spring.png)
-
 alors architecture globales et sous la forme d’un ensemble des services web sur la base d’architecture REST 
-	 
+![spring](Spring.png)	 
 3. Déroulement du système :
 
 Visiteur :
