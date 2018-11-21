@@ -16,14 +16,15 @@ Par exemple dans notre cas une bibliothèque offre a ces clients la possibilité
 <p>
 Dans cette mise en ouvre applicative on parle De transformation et d’agrégations de d’informations, les applications réalisant ces taches de façon complètement automatique et apique sont les services web <br/>
 Alors notre architecture globales et sous la forme d’un ensemble des services web sur la base d’architecture REST 
-</p>
+	
 
 
 ### L’architecture de la couche de donnée 
 ### Élaboration du diagramme d’utilisateur 
-     2.1.1.  Élaboration du diagramme d’utilisateur 
+2.1.1.  Élaboration du diagramme d’utilisateur 
        ![diagramme d’utilisateur](1.png)
-     2.1.2. Elaboration du diagramme de classes 
+
+2.1.2. Elaboration du diagramme de classes 
        ![ diagramme de classes](2.png)
  
  
