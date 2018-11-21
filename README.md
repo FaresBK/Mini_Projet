@@ -57,7 +57,7 @@ X : Sauvegarder les nouveaux changements
 
 4.1. Plateforme logicielle
        
-4.1.2:javaEE 
+4.1.2:
  
   
 
@@ -70,6 +70,8 @@ Pour la manière de gestion des demandes de clients on va utiliser un contrôleu
 +le contrôle implicite des transactions ;
 +la transparence des services distribués ; 
 + la sécurité.
-  
+
+###La Technologies choiseis:
+
 
 
