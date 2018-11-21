@@ -15,14 +15,6 @@
        
 ![ diagramme de classes](2.png)
  
-
- ### L’architecture globale de l’application  
- dans notre cas une bibliothèque offre a ces clients la possibilité de convertir leurs documente (.txt ,.ppt…)par divers moyens :
-+Mobile (wap-wml)
-+Internet (http-html) 
-alors architecture globales et sous la forme d’un ensemble des services web sur la base d’architecture REST 
-![spring](Spring.png)
-![data](data.png )
 3. Déroulement du système :
 
 Visiteur :
@@ -47,6 +39,14 @@ W : Afficher la page d’option choisi
 
 X : Sauvegarder les nouveaux changements
 
+
+ ### L’architecture globale de l’application  
+ dans notre cas une bibliothèque offre a ces clients la possibilité de convertir leurs documente (.txt ,.ppt…)par divers moyens :
++Mobile (wap-wml)
++Internet (http-html) 
+alors architecture globales et sous la forme d’un ensemble des services web sur la base d’architecture REST 
+![spring](Spring.png)
+![data](data.png )
 4. Présentation de l’environnement de développement :
 4.1. Plateforme logicielle
 +GitHub
