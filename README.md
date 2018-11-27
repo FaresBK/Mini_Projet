@@ -39,6 +39,9 @@ il contient les demandes:(request)
 
 ![archi](archi.png)
 
+#### En Utilisant servlets:
+Les servlets utilisent l'API Java Servlet (package javax.servlet ). Un ou une servlet s'exécute dynamiquement sur le serveur web et permet l'extension des fonctions de ce dernier, par exemple : l'accès à des bases de données, transactions de commerce en ligne
+
 ### L’architecture de la couche de donnée
 ![table](table.png)
 ![data](data.png )
