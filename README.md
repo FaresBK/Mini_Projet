@@ -77,15 +77,15 @@ X : Sauvegarder les nouveaux changements
 
 ### l technologer choisies:  
  Nous utilisons java Spring 
+###### Spring 
+est un socle pour le développement d'applications, principalement d'entreprises mais pas obligatoirement. Il fournit de nombreuses fonctionnalités parfois redondantes ou qui peuvent être configurées ou utilisées de plusieurs manières : ceci laisse le choix au développeur d'utiliser la solution qui lui convient le mieux et/ou qui répond aux besoins.
 ![spring](Spring.png)
 ![data](data.png )
-4. Présentation de l’environnement de développement :
-4.1. Plateforme logicielle
-+GitHub
-
-+Xampp : XAMPP  Lite  version 1.7.3
-
-+MySQL /phpMyAdmin 
+Présentation de l’environnement de développement :
+  4.1. Plateforme logicielle
+ +GitHub
+ +Xampp : XAMPP  Lite  version 1.7.3
+ +MySQL /phpMyAdmin 
 
 
 
