@@ -2,8 +2,8 @@
 ## Module : Claude Computing .	
 ## Mini Projet: 
 ### Réalisé par:
-*- Bouhidel Selsabil Ines G01.
-*- Belkacem Kahlouli Fares G01
+###### <font color="red">- Bouhidel Selsabil Ines G01. </font>
+###### *- Belkacem Kahlouli Fares G01
 
 ## 1.Objectif de TP: 
 Déveloper une applicatin préte pour l cloud de conversion de document.
