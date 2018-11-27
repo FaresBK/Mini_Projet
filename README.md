@@ -41,6 +41,7 @@ il contient les demandes:(request)
 
 ### L’architecture de la couche de donnée
 ![table](table.png)
+![data](data.png )
 ##### Élaboration du diagramme d’utilisateur 
 2.1.1.  Élaboration du diagramme d’utilisateur 
 
@@ -80,7 +81,6 @@ X : Sauvegarder les nouveaux changements
 ###### Spring 
 est un socle pour le développement d'applications, principalement d'entreprises mais pas obligatoirement. Il fournit de nombreuses fonctionnalités parfois redondantes ou qui peuvent être configurées ou utilisées de plusieurs manières : ceci laisse le choix au développeur d'utiliser la solution qui lui convient le mieux et/ou qui répond aux besoins.
 ![spring](Spring.png)
-![data](data.png )
 Présentation de l’environnement de développement :
   4.1. Plateforme logicielle
  +GitHub
