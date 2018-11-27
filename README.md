@@ -39,7 +39,9 @@ il contient les demandes:(request)
 
 ![archi](archi.png)
 
-### Élaboration du diagramme d’utilisateur 
+### L’architecture de la couche de donnée
+![table](table.png)
+##### Élaboration du diagramme d’utilisateur 
 2.1.1.  Élaboration du diagramme d’utilisateur 
 
 ![diagramme d’utilisateur](1.png)
@@ -84,9 +86,7 @@ X : Sauvegarder les nouveaux changements
 +Xampp : XAMPP  Lite  version 1.7.3
 
 +MySQL /phpMyAdmin 
-### L’architecture de la couche de donnée
 
-![table](table.png)
 
 
 
