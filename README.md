@@ -11,11 +11,11 @@ Déveloper une applicatin préte pour l cloud de conversion de document.
 ### 1:Architecteure globale de application:
 Nous utilisons l'architecture MVC, les rôles des trois entités sont les suivants :
 
-####### 1 :  modèle : données (accès et mise à jour)
+###### 1 :  modèle : données (accès et mise à jour)
 
-####### 2 : vue : interface utilisateur (entrées et sorties)
+###### 2 : vue : interface utilisateur (entrées et sorties)
 
-####### 3 :contrôleur : gestion des événements et synchronisation
+###### 3 :contrôleur : gestion des événements et synchronisation
 
 #### 1:Modèle:
 contient les données manipulées par le programme et fait la mise a jour sur Data base (insertion ,suppression, changement)
