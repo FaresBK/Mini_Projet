@@ -104,7 +104,7 @@ X : Sauvegarder les nouveaux changements
  
  ![ diagramme 3](1.7.png)
  
- ![ diagramme 4](1.9.png)
+ ![ diagramme 4](1.8.png)
  
  ###### les interactions avec le systeme detaille 
 ![ diagramme 5](1.9.png)
