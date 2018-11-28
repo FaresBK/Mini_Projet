@@ -20,20 +20,16 @@ Nous utilisons l'architecture MVC, les rôles des trois entités sont les suivan
 #### 1:Modèle:
 contient les données manipulées par le programme et fait la mise a jour sur Data base (insertion ,suppression, changement)
 ##### 1.2:  Data base contient:
--les identifient de utilisateur (id, nom ,prénom, email ,mot de passe )  .
-
--les emplacement de fichier convertir ( PATH ).
-
--nombre de visiteur(id int).  
++table de client 
++table des fichiers 
++table des fichier convertir
 #### 2:Vue:
-La vue fait l'interface avec l'utilisateur (HTML,RSS,XML).
+c'est  l'interface  graphique entre  l'utilisateur et le systeme .
 Sa première tâche est d'afficher les données qu'elle a récupérées auprès du modèle il contient:
-
--l interface de inscription 
-
--l interface de login 
-
--l interface de convertissions 
++ l'interface de d'accueil
++l interface de inscription 
++l interface de login 
++l interface de convertissions 
 
 #### 3:Contrôleur:
 Le contrôleur est chargé de la synchronisation du modèle et de la vue.
