@@ -113,6 +113,25 @@ X : Sauvegarder les nouveaux changements
 
 ![ diagramme 7](1.11.png)
 
+ ###### partie code 
+ on vas utilisé la programmation avec les threads pour evite les collision et stricturé les accés au site avec libreri TaskExecutor
+ 
+ ![java ](1.13.png)
+ ##### Explication
+ 
+ Une instance de TaskExecutor est définie: précisément c'est l'implémentation ThreadPoolTaskExecutor de spring retenue.
+
+L'instance ThreadPoolTaskExecutor est configurée ainsi:
+
+- corePoolSize initialisé à 5. Le nombre de thread lancés simultanément,
+
+- maxPoolSize le nombre maximal de thread lancés en parallèle. Au dela il sera mis en pool,
+
+- queueCapacity la taille max du pool. Au délà une exception de rejet est levée (à moins de configuration particulière).
+
+Nous avons aussi défini une instance de ExecutorService qui autorise de lancer un objet Runnable ou Callable
+ 
+ 
 ### l technologer choisies:  
 Nous utilisons java Spring 
 ###### Spring 
