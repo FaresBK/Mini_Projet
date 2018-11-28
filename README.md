@@ -58,13 +58,12 @@ D:demande: télécharger Le fichier converti
 Les servlets utilisent l'API Java Servlet (package javax.servlet ). Un ou une servlet s'exécute dynamiquement sur le serveur web et permet l'extension des fonctions de ce dernier, par exemple : l'accès à des bases de données, transactions de commerce en ligne
 
 ### L’architecture de la couche de donnée
-1.2
+
 ![table](1.2.png)
-![data](table.png )
+
 ##### Élaboration du diagramme d’utilisateur 
 1.  Élaboration du diagramme d’utilisateur 
 
-1.3
 ![diagramme d’utilisateur](1.3.png)
 
 1.1.  Déroulement du système :
@@ -93,9 +92,10 @@ X : Sauvegarder les nouveaux changements
 
 2. Elaboration du diagramme de classes 
 
- 1.4
+ 
 ![ diagramme de classes](1.4.png)
  
+ ![data](table.png )
  ### la maniére de gestion des demandes des clients
  ###### les interactions avec le systeme 
  ![ diagramme 1](1.5.png)
