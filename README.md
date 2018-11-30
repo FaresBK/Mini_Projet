@@ -54,7 +54,8 @@ D:demande: télécharger Le fichier converti
 
 ![archi](1.1.png)
 
-#### 4:En Utilisant servlets:
+
+#### 4:En Utilisant servlets :
 Les servlets utilisent l'API Java Servlet (package javax.servlet ). Un ou une servlet s'exécute dynamiquement sur le serveur web et permet l'extension des fonctions de ce dernier, par exemple : l'accès à des bases de données, transactions de commerce en ligne
 
 ### L’architecture de la couche de donnée
@@ -95,7 +96,7 @@ X : Sauvegarder les nouveaux changements
  
 ![ diagramme de classes](1.4.png)
  
- ![data](table.png )
+![data](table.png )
  ### la maniére de gestion des demandes des clients
  ###### les interactions avec le systeme 
  ![ diagramme 1](1.5.png)

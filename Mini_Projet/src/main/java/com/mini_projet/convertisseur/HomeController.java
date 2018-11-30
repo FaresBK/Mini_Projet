@@ -5,17 +5,15 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
-import java.sql.*;
+//import org.springframework.jdbc.core.JdbcTemplate;
+
 /**
  * Handles requests for the application home page.
  */
 @Controller
 public class HomeController {
-	Connection connction =null;
-	Statement statement=null;
-	PreparedStatement pre=null;
-	ResultSet resultset=null;
 	
+	//private JdbcTemplate template;
 	
 	@RequestMapping(value="/",method=RequestMethod.GET)
 	public ModelAndView home(){
@@ -50,6 +48,16 @@ public class HomeController {
     
    @RequestMapping(value="/conveti",method=RequestMethod.POST)
     public ModelAndView inscriclient(@ModelAttribute("p")client cl){
+	   try {
+		
+		  
+		   String sql = "INSERT INTO `client`(`id`, `nom`, `prenom`, `email`, `passwored`) "
+		   		+ "VALUES ([value-1],[value-2],[value-3],[value-4],[value-5])";
+		   
+	} catch (Exception e) {
+		e.printStackTrace();
+	}
+	 
 	  System.out.println(cl.getnom()+" "+cl.getprenom()+" "+cl.getEmail()+" "+cl.getpasswored());
 	 return new ModelAndView("redirect:/convertisseur");
     }
