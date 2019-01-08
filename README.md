@@ -29,13 +29,9 @@ contient les données manipulées par le programme et fait la mise a jour sur Da
 #### 2:Vue:
 c'est  l'interface  graphique entre  l'utilisateur et le systeme .
 
-+ l'interface de d'accueil
++l interface de convertissions
 
-+l interface de inscription 
-
-+l interface de login
-
-+l interface de convertissions 
++1 interface de about  
 
 #### 3:Contrôleur:
 Le contrôleur est chargé de la synchronisation du modèle et de la vue.
