@@ -39,13 +39,9 @@ Il reçoit tous les événements de l'utilisateur et enclenche les actions à ef
 le contrôleur demande la modification des données au modèle et ensuite avertit la vue que les données ont changé pour que celle-ci se mette à jour.
 il contient les demandes:(request)
 
-A:demande : inscription (recuperation de formulaire)
-
-B:demande : login (authentifier)
-
-C:demande : convertir le fichier
+A:demande : convertir le fichier
        
-D:demande: télécharger Le fichier converti
+B:demande: télécharger Le fichier converti
 
 
 ![archi](1.1.png)
